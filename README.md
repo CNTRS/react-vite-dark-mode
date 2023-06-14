@@ -1,0 +1,1 @@
+Minimal React Single Page Application for testing both TailwindCSS and Vite
